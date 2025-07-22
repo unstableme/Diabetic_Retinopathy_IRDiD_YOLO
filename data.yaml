@@ -1,0 +1,4 @@
+train: C:/USERS/USER/DOCUMENTS/FIRST YOLO_DIABETIC RETINOPATHY/data/images/train
+val: C:/USERS/USER/DOCUMENTS/FIRST YOLO_DIABETIC RETINOPATHY/data/images/val
+nc: 4
+names: ["Microaneurysms", "Haemorrhages", "Hard Exudates", "Soft Exudates"]

@@ -1,0 +1,23 @@
+# Ignore virtual environment folder
+yoloenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# Ignore pip cache and logs
+pip-log.txt
+pip-delete-this-directory.txt
