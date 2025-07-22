@@ -24,9 +24,6 @@ This project fine-tunes a YOLOv8 object detection model to identify four types o
 | mAP@0.5:0.95       | 0.169   |
 | Best Class (SE)    | AP@0.5 = 0.61 |
 
-## Visualizations
-
-<Insert 2×2 annotated grid images>
 
 ## Limitations
 
@@ -36,6 +33,6 @@ This project fine-tunes a YOLOv8 object detection model to identify four types o
 
 ## Future Work
 
-- Apply to larger datasets (e.g., EyePACS, DDR)
+- Apply to larger datasets
 - Compare RetinaNet, Faster R-CNN
 - Use SAM for automatic box extraction from segmentation masks
